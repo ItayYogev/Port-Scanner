@@ -1,5 +1,5 @@
 
-# Python Port Scanner
+# Port Scanner
 
 This Python project is a versatile and user-friendly port scanner that allows users to specify an IP address and select from multiple port scanning options, including specific ports, port ranges, and a built-in wordlist, with results presented in a clean and organized format, making it a valuable tool for network administrators and security professionals
 
